@@ -1,0 +1,8 @@
+/Users/yangming/Documents/project2/ai-code-refactor/build/CMakeFiles/intrinsics_gen.dir
+/Users/yangming/Documents/project2/ai-code-refactor/build/CMakeFiles/omp_gen.dir
+/Users/yangming/Documents/project2/ai-code-refactor/build/CMakeFiles/acc_gen.dir
+/Users/yangming/Documents/project2/ai-code-refactor/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/Users/yangming/Documents/project2/ai-code-refactor/build/CMakeFiles/clang-tablegen-targets.dir
+/Users/yangming/Documents/project2/ai-code-refactor/build/CMakeFiles/aicr.dir
+/Users/yangming/Documents/project2/ai-code-refactor/build/CMakeFiles/edit_cache.dir
+/Users/yangming/Documents/project2/ai-code-refactor/build/CMakeFiles/rebuild_cache.dir

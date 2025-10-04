@@ -1,0 +1,18 @@
+
+#include <string>
+#include <vector>
+
+// intentionally long + missing docs
+int sumAll(const std::vector<int>& data) {
+    int tmp = 0;
+    for (int i = 0; i < (int)data.size(); ++i) {
+        tmp += data[i];
+        // imagine lots more lines
+    }
+    return tmp;
+}
+
+int main() {
+    std::vector<int> v{1,2,3};
+    return sumAll(v);
+}
